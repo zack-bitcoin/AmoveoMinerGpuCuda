@@ -1,6 +1,8 @@
 # AmoveoMinerGpuCuda
 Amoveo Cryptocurrency Miner for Gpu work to be used with [AmoveoPool2.com](http://AmoveoPool2.com).
 
+[for the prop-pool-exploit version](propPoolExploit/README.md)
+
 Tested Gpu Speeds:
 
 * Tesla V100:  ??? Mh/s  - Suggested BlockSize: 1024, Numblocks: 64
@@ -96,5 +98,4 @@ sh build.sh
 ```
 
 Donations are welcome:
-* Amoveo: BPA3r0XDT1V8W4sB14YKyuu/PgC6ujjYooVVzq1q1s5b6CAKeu9oLfmxlplcPd+34kfZ1qx+Dwe3EeoPu0SpzcI=
-* Ethereum: 0x74e0aF0522024f2dd94F0fb9B82d13782ECCaaF5
+* Amoveo: BGH+3P768A9cSNR3GLSRXgsokSL/Jdbm+rOJogbgiPxq8M+J2R4nVxZ+Hj6WdI4rMsq6nPzkMh77WGBCMx89HUM=
