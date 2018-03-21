@@ -49,8 +49,8 @@ using namespace utility;									// Common utilities like string conversions
 int gElapsedMilliSecMax = FETCH_WORK_INTERVAL_MS;
 
 //#define POOL_URL "http://localhost:32371/work"	// local pool
-#define POOL_URL "http://amoveopool2.com/work"
-#define MINER_ADDRESS "BPA3r0XDT1V8W4sB14YKyuu/PgC6ujjYooVVzq1q1s5b6CAKeu9oLfmxlplcPd+34kfZ1qx+Dwe3EeoPu0SpzcI="
+#define POOL_URL "http://159.65.120.84:8085"
+#define MINER_ADDRESS "BGH+3P768A9cSNR3GLSRXgsokSL/Jdbm+rOJogbgiPxq8M+J2R4nVxZ+Hj6WdI4rMsq6nPzkMh77WGBCMx89HUM="
 #define DEFAULT_DEVICE_ID 0
 
 string gMinerPublicKeyBase64(MINER_ADDRESS);
